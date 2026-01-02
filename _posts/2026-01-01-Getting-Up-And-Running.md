@@ -10,6 +10,5 @@ Yes I think so!
 
 Now to try it remotely
 
-With new publish script!
+And from obsidian!
 
-![](IMG_4669.jpg)
