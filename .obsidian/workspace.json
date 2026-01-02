@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "6b5fc7faddfd7ef3",
+    "id": "e75c4061f525c55c",
     "type": "split",
     "children": [
       {
-        "id": "963b9c9d1558ee66",
+        "id": "c2ea6f43df0b07e4",
         "type": "tabs",
         "children": [
           {
-            "id": "96fa30069d211cd9",
+            "id": "7dc652634d3d817c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-01-01-Getting-Up-And-Running.md",
+                "file": "_posts/2026-01-01-Getting-Up-And-Running.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ca4a8fc317ccd35f",
+    "id": "4dcfc0ae76933e0b",
     "type": "split",
     "children": [
       {
-        "id": "9273211eee71e907",
+        "id": "cd8e2916acd7d792",
         "type": "tabs",
         "children": [
           {
-            "id": "68a1a56436655507",
+            "id": "a07e88fa27307801",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "e8e2f925b8a4c3b3",
+            "id": "334fa264b0a10a9a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "70e14c7e3fc89f89",
+            "id": "cfab1390b39d3546",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "7c9ba0a1edac0d2a",
+    "id": "6d25187e235f2940",
     "type": "split",
     "children": [
       {
-        "id": "da4d2e439adf8a4e",
+        "id": "66b2974e451b62aa",
         "type": "tabs",
         "children": [
           {
-            "id": "42a6723aab5c0837",
+            "id": "19578dba7948f039",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2026-01-01-Getting-Up-And-Running.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2026-01-01-Getting-Up-And-Running"
             }
           },
           {
-            "id": "db65eacb66e99859",
+            "id": "87e88c766ce2342a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2026-01-01-Getting-Up-And-Running.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2026-01-01-Getting-Up-And-Running"
             }
           },
           {
-            "id": "d791cd3e6ddf0e89",
+            "id": "7b556b4e58175e3c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +137,7 @@
             }
           },
           {
-            "id": "6479ddaa7ed905a0",
+            "id": "0d68d2ae41e8ac51",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,17 +151,18 @@
             }
           },
           {
-            "id": "4ab1a6ad1e6e0639",
+            "id": "e0a1f602b7772bdf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "_posts/2026-01-01-Getting-Up-And-Running.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2026-01-01-Getting-Up-And-Running"
             }
           }
         ]
@@ -180,12 +183,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "96fa30069d211cd9",
+  "active": "7dc652634d3d817c",
   "lastOpenFiles": [
-    "IMG_4669.jpg",
-    "2026-01-01-Getting-Up-And-Running.md",
-    "images/IMG_4669.jpg",
-    "images",
-    "2025-12-30-Hello-World.md"
+    "assets/images/IMG_4669.jpg",
+    "_posts/2026-01-01-Getting-Up-And-Running.md",
+    "_site/assets/images/IMG_4669.jpg",
+    "_site/assets/images",
+    "_site/assets/images/IMG_4669 2.jpg",
+    "assets/images/IMG_4669 2.jpg",
+    "_posts/2025-12-30-Hello-World.md",
+    "_site/assets/images/IMG_4669 1.jpg",
+    "assets/images/IMG_4669 1.jpg",
+    "_site/assets/images/Raven.jpeg",
+    "assets/images/Raven.jpeg",
+    "_site/assets/main.css.map",
+    "_plugins/obsidian_image_rewrite.rb",
+    "_plugins",
+    "_site/scripts/obsidian-images.js",
+    "_site/scripts",
+    "scripts/obsidian-images.js",
+    "scripts"
   ]
 }
