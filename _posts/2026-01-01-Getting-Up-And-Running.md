@@ -4,7 +4,9 @@ title: Getting Up And Running
 date: 2026-01-01 16:08:26 -0500
 categories:
 ---
-Okay! It's been a bit fiddly getting this running but I now have it behaving as I want it to! My pipeline for posting is now this. I have an Obsidian vault setup on my local machine that is setup in a folder that is also a Jekyll project and git repo. (https://github.com/jcmertz/theHalfSheet) I am then using a custom shell script (below), which is triggered by the Obsidian community plugin "Shell Commands" (https://github.com/Taitava/obsidian-shellcommands) based on a hot key, to do the following:
+Okay! It's been a bit fiddly getting this running but I now have it behaving as I want it to! My pipeline for posting is now this:
+
+I have an Obsidian vault setup on my local machine that is setup in a folder that is also a Jekyll project and [git repo](https://github.com/jcmertz/theHalfSheet). I am then using a custom shell script (below), which is triggered by the [Obsidian community plugin "Shell Commands"](https://github.com/Taitava/obsidian-shellcommands) based on a hot key, to do the following:
 
 - Stage and commit any changes to the repo
 - Push to the remote Github repo
