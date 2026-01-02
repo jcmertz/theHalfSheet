@@ -10,3 +10,6 @@ Yes I think so!
 
 Now to try it remotely
 
+With new publish script!
+
+![](IMG_4669.jpg)
