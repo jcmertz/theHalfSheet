@@ -6,3 +6,5 @@ categories:
 ---
 This article is gonna change quite a few times today. Using this to test the system.
 Testing this.
+
+![](IMG_4669.jpg)
