@@ -1,0 +1,15 @@
+{
+  "files": [
+    "{{date}}-TITLE.md"
+  ],
+  "templaterFiles": [],
+  "newFileTemplates": [
+    {
+      "folder": "_posts",
+      "path": "{{date}}-TITLE.md",
+      "plugin": "templater"
+    }
+  ],
+  "openNewFileTemplateInNewPane": false,
+  "useNewFileTemplateOnFileCreation": true
+}
